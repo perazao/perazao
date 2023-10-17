@@ -21,8 +21,8 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=izquierdow&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izquierdow&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=perazao&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perazao&count_private=true&theme=dracula">
 
 </p>
 
@@ -32,11 +32,6 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
   
 - ✨&nbsp;
   ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=Slack)
